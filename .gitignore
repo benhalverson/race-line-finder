@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+env
+*.log
+*.sqlite
+*.sql
+.DS_Store
+.vscode
+.idea
+*.swp
+video
+frames
