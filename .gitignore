@@ -10,5 +10,5 @@ env
 .vscode
 .idea
 *.swp
-video
+videos
 frames
