@@ -9,5 +9,5 @@ while True:
   if cv2.waitKey(1) & 0xFF == ord('q'):
     break
   
-  capture.release()
-  cv2.destroyAllWindows()
+capture.release()
+cv2.destroyAllWindows()

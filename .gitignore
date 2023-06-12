@@ -12,3 +12,4 @@ env
 *.swp
 videos
 frames
+venv
