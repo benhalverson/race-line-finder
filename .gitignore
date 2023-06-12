@@ -13,3 +13,4 @@ env
 videos
 frames
 venv
+*.mp4
