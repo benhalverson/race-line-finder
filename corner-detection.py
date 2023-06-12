@@ -13,8 +13,8 @@ def load_images_and_labels(image_paths, labels):
     
   return np.array(images), np.array(labels)
 
-image_paths = []
-labels = []
+image_paths = ["./frames/frame_0000.png", "./frames/frame_0001.png", "./frames/frame_0095.png", "./frames/frame_3499.png"]
+labels = [1, 1, 1, 0]
 
 images, labels = load_images_and_labels(image_paths, labels)
 
